@@ -1,0 +1,17 @@
+# Python 虚拟环境
+.venv/
+venv/
+env/
+
+# 缓存与编译产物
+__pycache__/
+*.py[cod]
+
+# 编辑器
+.idea/
+.vscode/
+
+# 运行输出
+*.log
+words.txt
+candidates.txt
